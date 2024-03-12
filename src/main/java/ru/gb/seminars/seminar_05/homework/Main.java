@@ -1,4 +1,4 @@
-package seminars.seminar5.homework;
+package ru.gb.seminars.seminar_05.homework;
 
 import java.util.*;
 
@@ -9,7 +9,7 @@ public class Main {
         HashMap<String, Integer> phoneBook = new HashMap<>();
 
         System.out.println("================ТЕЛЕФОННЫЙ СПРАВОЧНИК===============");
-        System.out.println("Выберите одну из четырех команд:" +
+        System.out.println("Выберите одну из пяти команд:" +
                 "\n\t\"ADD\" - добавить новый контакт." +
                 "\n\t\"GET\" - получить список всех номеров по фамилии." +
                 "\n\t\"REMOVE\" - удалить все номера по фамилии." + "" +
